@@ -1,0 +1,20 @@
+# maven
+target/
+
+#macos
+*~
+.DS_Store
+
+# IntelliJ: user specific settings
+*.iml
+**/.idea/*.*
+**/.idea/libraries/
+**/.idea/shelf/
+!**/.idea/codeStyles/codeStyleConfig.xml
+!**/.idea/inspectionProfiles/Project_Default.xml
+!**/.idea/runConfigurations/*.xml
+!**/.idea/compiler.xml
+!**/.idea/encodings.xml
+!**/.idea/groovyc.xml
+!**/.idea/misc.xml
+!**/.idea/vcs.xml
